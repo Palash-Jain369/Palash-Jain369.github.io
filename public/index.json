@@ -1,0 +1,32 @@
+
+{
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+    
+    "articles": [{"date":"2023-09-11","image":"","imageAlt":"","link":"https://example.com/about/","summary":"This is a website made from hugo web framework. The theme is Hugo-Ficurinia. It is highly customizable, and the instructions to customize are quite clear. Although there is a copyright logo at the bottom that can\u0026rsquo;t be removed from editing config files, you can easily remove it by editing footer.html in the layout section of the theme.","tags":[],"title":"About"},{"date":"2023-09-11","image":"","imageAlt":"","link":"https://example.com/posts/post1/","summary":"This is my first post","tags":["cool","technology"],"title":"bout"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://example.com/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://example.com/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "About   bout   Manifest   Search   ",
+    "page": "1",
+    "next": ""
+}
+

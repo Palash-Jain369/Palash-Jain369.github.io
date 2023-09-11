@@ -1,0 +1,17 @@
+
+{
+    
+    
+    
+    
+        
+        
+        
+    
+        
+        
+        
+    
+    "pages": [{"date":"2023-09-11","image":"","imageAlt":"","link":"https://example.com/about/","summary":"This is a website made from hugo web framework. The theme is Hugo-Ficurinia. It is highly customizable, and the instructions to customize are quite clear. Although there is a copyright logo at the bottom that can\u0026rsquo;t be removed from editing config files, you can easily remove it by editing footer.html in the layout section of the theme.","tags":[],"text":"this is a website made from hugo web framework. the theme is hugo-ficurinia. it is highly customizable, and the instructions to customize are quite clear. although there is a copyright logo at the bottom that can\u0026rsquo;t be removed from editing config files, you can easily remove it by editing footer.html in the layout section of the theme.\n","title":"About"},{"date":"2023-09-11","image":"","imageAlt":"","link":"https://example.com/posts/post1/","summary":"This is my first post","tags":["cool","technology"],"text":"   this is my first post\n","title":"bout"}]
+}
+
