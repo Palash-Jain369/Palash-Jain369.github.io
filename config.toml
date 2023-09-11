@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Palash-Jain369/Palash-Jain369.github.io"
+baseURL = "https://github.com/Palash-Jain369/Palash-Jain369.github.io/tree/main/themes/hugo-ficurinia/"
 theme = "hugo-ficurinia"
 title = "Palash Jain"
 languageCode = "en"
