@@ -12,7 +12,7 @@ tags: [Linux, Hacking, Bandit, Overthewire]
 ## Prerequisites
 Although **Bandit** is considered beginner friendly- allowing the player to learn along as they play, learning a little bit about *Networking* especially- *OSI model, sockets, and overview of how networking protocols work*- in advance can make the experience better and more rewarding.
 
-## Walkthrough(Level 0-4)
+## Walkthrough
 The focus will be on the approach and the concepts behind each level.
 
 **Level 0** - 
