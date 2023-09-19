@@ -1,10 +1,10 @@
 ---
-title: "Natas"
-date: 2023-10-19T10:47:20+05:30
+title: "Bandit"
+date: 2023-09-11T10:47:20+05:30
 draft: false
-tags: [Web Application Security, Hacking, Natas, Overthewire]
-image: https://github.com/Palash-Jain369/static/blob/main/Natas/Preview.png?raw=true
----
+tags: [Linux, Hacking, Bandit, Overthewire]
+image: https://github.com/Palash-Jain369/static/blob/main/Bandit_Thumbnail.png?raw=true
+----
 ### [Natas](https://overthewire.org/wargames/natas/) is a wargame aimed at exploiting web application security vulnerabilities.
 
 ## Level0-->1:
