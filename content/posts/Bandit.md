@@ -3,6 +3,7 @@ title: "Bandit"
 date: 2023-09-11T10:47:20+05:30
 draft: false
 tags: [Linux, Hacking, Bandit, Overthewire]
+image: https://github.com/Palash-Jain369/static/blob/main/Bandit_Thumbnail.png?raw=true
 ----
 
 ![](https://github.com/Palash-Jain369/static/blob/main/Bandit_Thumbnail.png?raw=true)
