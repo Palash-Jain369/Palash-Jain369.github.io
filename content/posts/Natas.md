@@ -1,4 +1,4 @@
-d---
+---
 title: "Natas"
 date: 2023-10-19T10:47:20+05:30
 draft: false
