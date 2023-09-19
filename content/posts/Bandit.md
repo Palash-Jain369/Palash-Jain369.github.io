@@ -6,7 +6,7 @@ tags: [Linux, Hacking, Bandit, Overthewire]
 image: https://github.com/Palash-Jain369/static/blob/main/Bandit_Thumbnail.png?raw=true
 ----
 
-![](https://github.com/Palash-Jain369/static/blob/main/Bandit_Thumbnail.png?raw=true)
+
 
 [**Bandit**](https://overthewire.org/wargames/bandit/) is a great resource to become familiar  with *Command Line* and Linux security fundamentals. In this wargame, you connect to a remote Linux machine over internet then solve various challenges through hints given at the [website](https://overthewire.org/wargames/bandit).
 
