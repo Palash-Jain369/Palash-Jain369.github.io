@@ -50,7 +50,7 @@ summaryLength = 70  # number of words for article summaries
     monospaceFontFamily = "JetBrains Mono"  # changes the monospace font for code, default "JetBrains Mono"
 
     # multipliers applied to font sizes, useful for custom fonts that may be too big or too small
-    titleFontSizeMultiplier = 1.0
+    titleFontSizeMultiplier = 2.0
     mainFontSizeMultiplier = 1.0
     monoFontSizeMultiplier = 1.0
 
